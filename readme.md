@@ -17,7 +17,7 @@ The `npm init` command will find this package automatically and run it.
 If you feel you can help in any way, be it with examples, extra testing, or new features please open a pull request or open an issue.
 
 The code follows the Standard code style.
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard) [![Greenkeeper badge](https://badges.greenkeeper.io/fastify/create-fastify.svg)](https://greenkeeper.io/)
 
 ## License
 **[MIT](https://github.com/fastify/fastify-cli/blob/master/LICENSE)**
